@@ -6,9 +6,9 @@ Este repositório contém o projeto final para a disciplina **Aprendizado de Má
 ## Membros do Projeto
 | Nome               | Usuário no GitHub          |
 |--------------------|----------------------------|
-| [Nome 1]           | [@Trutzyz](https://github.com/Trutzyz)       |
-| [Nome 2]           | [@Joao-Victor-AVM](https://github.com/Joao-Victor-AVM) |
-| [Nome 3]           | [@BeatrizVilarim](https://github.com/BeatrizVilarim)   |
+| [João Ricado Leitão Barros]           | [@Trutzyz](https://github.com/Trutzyz)       |
+| [João Victor Almeida de Melo]           | [@Joao-Victor-AVM](https://github.com/Joao-Victor-AVM) |
+| [Beatriz Vilarim]           | [@BeatrizVilarim](https://github.com/BeatrizVilarim)   |
 
 ## Estrutura do Repositório
 - **notebooks/**: Contém o Jupyter Notebook com o código desenvolvido.
